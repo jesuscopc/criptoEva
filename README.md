@@ -2,10 +2,13 @@
 
 ## Description
 
-Little APp to get criptos and show ina a table
+Little App to get criptos and show in a table
 
 
 ## Details
+typescript
+reactjs
+hooks
 
 ### The Application
 
